@@ -12,7 +12,7 @@
         <div class="container-fluide" style="background-color:black;">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p class="text-white p-6 mt-3">BAL-RAKSHAK © 2023 - All rights Reserved. Developed & Designed by Pratha Patidar</p>
+                    <p class="text-white p-6 mt-3">BAL-RAKSHAK © 2024 - All rights Reserved. Developed & Designed by Pinkush Gole</p>
                 </div>
                
             </div>
